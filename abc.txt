@@ -1,2 +1,3 @@
 test
 cung sua chua
+chinh sua nhanh
